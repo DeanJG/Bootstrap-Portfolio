@@ -1,4 +1,6 @@
 /* CSS applied to all pages */
+/*                          */
+
 body {
     background-image: url("../images/background.png");
     vertical-align: center;
@@ -57,22 +59,20 @@ footer {
 }
 
 /* CSS applied to AboutMe Page */
+/*                             */
+
 #AbtRow2 {
-    margin-top: 20px;
+    margin-top: 16px;
 }
 @media (min-width: 768px) {
     #AboutMeCont{
         max-width: 960px;
     }
 }
-#NamePlate {
-
-}
-.navbar-nav {
-
-}
 
 /* CSS applied to Portfolio Page */
+/*                               */
+
 #PortCont {
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
@@ -117,10 +117,12 @@ footer {
     }
 }
 #ImgRow2 {
-    margin-top: 20px;
+    margin-top: 16px;
 }
 
 /* CSS applied to Contact Page */
+/*                             */
+
 #ContactCont {
     
 }
@@ -128,4 +130,14 @@ footer {
     #ContactCont{
         max-width: 720px;
     }
+}
+#ContRow2 {
+    margin-top: 16px;
+}
+#MsgBox {
+    height: 150px;
+}
+#ContRow5 {
+    margin-top: 16px;
+    padding-bottom: 16px;
 }
