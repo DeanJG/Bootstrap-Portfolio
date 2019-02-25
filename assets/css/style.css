@@ -1,3 +1,4 @@
+/* CSS applied to all pages */
 body {
     background-image: url("../images/background.png");
     vertical-align: center;
@@ -15,3 +16,9 @@ footer {
     border-top: 5px solid teal;
     font-size: 12px
 }
+
+/* CSS applied to AboutMe Page */
+
+/* CSS applied to Portfolio Page */
+
+/* CSS applied to Contact Page */
