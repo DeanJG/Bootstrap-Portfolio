@@ -1,0 +1,17 @@
+body {
+    background-image: url("../images/background.png");
+    vertical-align: center;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif !important;
+   }
+footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    height: 35px;
+    width: 100%;
+    background-color: #666666;
+    color: white;
+    text-align: center;
+    border-top: 5px solid teal;
+    font-size: 12px
+}
